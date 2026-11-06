@@ -23,7 +23,7 @@ the license and make sure your use complies before any commercial use. ONYX OFX 
 these files as is, without warranty of any kind, and is not affiliated with or endorsed
 by their authors.
 
-## Files — release `refiners-v2`
+## Files — release `refiners-v3`
 
 | File | Format | Bytes | SHA-256 |
 |---|---|---:|---|
